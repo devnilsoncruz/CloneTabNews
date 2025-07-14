@@ -1,0 +1,15 @@
+{
+  "name": "clonetabnews",
+  "version": "1.0.0",
+  "description": "Projeto de estudos para novos desenvolvedores",
+  "main": "index.js",
+  "scripts": {
+    "dev":"next dev"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0"
+  }
+}
