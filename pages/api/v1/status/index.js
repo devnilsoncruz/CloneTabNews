@@ -1,8 +1,5 @@
 
-
 function status(request, response) {
-  response.status(200).json({ chave: "testando API  " });
-
+  response.status(200).json({ chave: "testando uma API" })
 }
 export default status
-
